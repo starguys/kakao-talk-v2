@@ -1,1 +1,14 @@
 .DS_Store
+
+<div class="chat__write-column">
+<i class="far fa-plus-square"></i>
+</div>
+<div class="chat__write-column"></div>
+<div class="chat__write-column">
+<span class="chat__write-icon">
+<i class="far fa-smile-wink"></i>
+</span>
+<span class="chat__write-icon">
+<i class="fas fa-microphone"></i>
+</span>
+</div>
